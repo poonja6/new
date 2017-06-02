@@ -1,0 +1,8 @@
+[Setup]
+Lang=english
+Dir=C:\Users\SushmitaPoonja\Downloads
+Group=VLC
+NoIcons=0
+Tasks=desktopicon,addcontextmenufiles,addcontextmenufolders,addtopath
+
+
